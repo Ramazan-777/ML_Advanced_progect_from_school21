@@ -8,7 +8,7 @@
 * `ex01/` — подбор гиперпараметров через `GridSearchCV`
 * `ex02/` — расчет и анализ метрик (ROC-AUC, F1, Precision, Recall)
 * `ex03/` — ансамблевые методы (Voting, Bagging, Boosting)
-* `ex04/` — построение `Pipeline` и сохранение моделей (`joblib` / `pickle`)
+* `ex04/` — построение `Pipeline` и сохранение моделей (`joblib`)
 
 ## Требования и окружение
 
